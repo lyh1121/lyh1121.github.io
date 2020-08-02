@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuhan Liu homepage"
+title                    : "Yuhan Liu"
 title_separator          : "-"
 name                     : &name "Yuhan Liu"
 description              : &description ""
@@ -69,7 +69,7 @@ analytics:
 author:
   name             : "Yuhan Liu"
   avatar           : "profile.png"
-  bio              : "Senior Student in CS@ University of Wisconsin-Madison"
+  bio              : "Senior Student in CS @ University of Wisconsin-Madison"
   location         : "Madison, WI"
   employer         :
   email            : yliu738@wisc.edu
@@ -80,7 +80,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           : "https://github.com/YuhanLiu11"
   google_plus      :
   keybase          :
   instagram        :
@@ -92,7 +92,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
   vine             :
   weibo            :
   xing             :
